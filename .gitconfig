@@ -1,0 +1,5 @@
+[user]
+	name = Ivan Grgurina
+	email = ivan.grgurina@cloudsense.com
+[core]
+	autocrlf = true
